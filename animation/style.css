@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+}
+.space{
+    width: 100vw;
+    height: 100vh;
+    background: url(./img/clean\ space.jpg);
+    background-size: cover;   
+}
+.space img{
+    width: 40%;
+    position: absolute;
+    margin-left: 500px;
+}
